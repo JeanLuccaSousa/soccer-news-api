@@ -1,2 +1,2 @@
 # soccer-news-api
-API, Provida via GitHub Pages, do App "Soccer-News"
+API, provided via GitHub Pages, from the "Soccer-News" App
